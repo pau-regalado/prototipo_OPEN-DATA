@@ -8,4 +8,3 @@
 2. Incluir los ficheros adjuntados en el repositorio al directorio de trabajo.
 3. Ejecutar los codigos incluidos.
 
-###Resultados
